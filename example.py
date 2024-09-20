@@ -1,2 +1,2 @@
 print ("Hello World!")
-ZALUPS
+ZALUPS 2.0
