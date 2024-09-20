@@ -18,7 +18,7 @@ output_file = "users.txt"
 database = create_engine('mysql+pymysql://root:userer@127.0.0.1:3306/dbfile')
 Baza = declarative_base()
 
-
+# IM COMMENT! # TODO
 class Insider(Baza):
     __tablename__ = 'ADUsers'
 
