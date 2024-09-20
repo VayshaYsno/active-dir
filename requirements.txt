@@ -1,0 +1,7 @@
+python-ldap
+cryptography
+sqlalchemy
+pymysql
+sqlalchemy.orm
+ldap3
+pycryptodome
